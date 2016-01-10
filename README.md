@@ -1,0 +1,26 @@
+# Experiments with CSS4 Selectors
+
+- Negation pseudo-class
+- Local link pseudo-class
+- Time-dimensional pseudo-class
+- Indeterminate-value pseudo-class
+- Default option pseudo-class
+- Validity pseudo-class
+- Optionality pseudo-class
+- Mutability pseudo-class
+- Structural pseudo-class
+- Grid-Structural pseudo-class
+- Attribute case-sensitivity
+- Reference combination
+- Subject of a selector with Child combinator
+- Relational pseudo-class
+- Dir pseudo-class
+- Hyperlink pseudo-class
+- Lang pseudo-class
+- Scope pseudo-class
+- Drop pseudo-class
+- Placeholder pseudo-class
+- Range pseudo-class
+- Blank pseudo-class
+- Descendant combination
+- Column combination
