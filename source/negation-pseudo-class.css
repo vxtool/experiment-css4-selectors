@@ -1,0 +1,15 @@
+/*
+<p>Texto</p>
+<p class="test">Outro texto</p>
+<span>Mais um texto<span>
+*/
+p:not(.test) { color: red; }
+body :not(p) { color: green; }
+
+/* Negation peseudo-class */ 
+/*
+<a href="">Link 1</a>
+<a href="">Link 2</a>
+*/ 
+a:hover { color: yellow; }
+a:not(:hover) { color: red; }
